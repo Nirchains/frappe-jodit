@@ -27,7 +27,7 @@ app_include_js = "/assets/jodit_html_editor/js/jodit.min.js"
 
 # include js in doctype views
 doctype_js = {
-    "Item" : "public/js/Item.js",
+    #"Item" : "public/js/Item.js",
     "Web Page" : "public/js/web_page.js",
     "Web Form" : "public/js/web_form.js"
     }
